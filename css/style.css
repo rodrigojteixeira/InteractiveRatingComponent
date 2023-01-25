@@ -5,7 +5,6 @@
   --Light-Grey: hsl(217, 12%, 63%);
   --Medium-Grey: hsl(216, 12%, 54%);
   --Dark-Blue: hsl(213, 19%, 18%);
-  --Very-Dark-Blue: hsl(216, 12%, 8%);
   --secondary: hsl(213deg, 20%, 22%);
 }
 * {
@@ -13,4 +12,12 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Overpass", sans-serif;
+}
+
+body{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(216, 12%, 8%);
 }
