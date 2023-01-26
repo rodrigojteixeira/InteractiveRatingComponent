@@ -30,3 +30,8 @@ body{
   border-radius: 1rem;
   width: 350px;
 }
+
+.container{
+  padding: 2rem;
+}
+
