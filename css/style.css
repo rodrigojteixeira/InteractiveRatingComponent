@@ -2,7 +2,6 @@
 :root {
   --Orange: hsl(25, 97%, 53%);
   --Light-Grey: hsl(217, 12%, 63%);
-  --Medium-Grey: hsl(216, 12%, 54%);
 }
 * {
   padding: 0;
@@ -46,6 +45,19 @@ body{
 
 .title{
   color: hsl(0, 0%, 100%);
+  margin-bottom: 1rem;
+}
+
+.description{
+  font-size: 14px;
+  color: hsl(216, 12%, 54%);
+  margin-bottom: 1rem;
+}
+
+.ratings{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-bottom: 1rem;
 }
 
