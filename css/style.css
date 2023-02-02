@@ -71,3 +71,8 @@ span{
   cursor: pointer;
 }
 
+span:hover{
+  background-color: hsl(217, 12%, 63%);
+  color: #FFF;
+}
+
