@@ -76,3 +76,14 @@ span:hover{
   color: #FFF;
 }
 
+button{
+  width: 100%;
+  color: #FFF;
+  border: none;
+  border-radius: 2rem;
+  background-color: hsl(25, 97%, 53%);
+  padding: 0.7rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
