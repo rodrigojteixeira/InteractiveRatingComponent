@@ -58,7 +58,7 @@ body{
   margin-bottom: 1rem;
 }
 
-span{
+.ratings span{
   width: 50px;
   height: 50px;
   display: flex;
@@ -71,7 +71,7 @@ span{
   cursor: pointer;
 }
 
-span:hover{
+.ratings span:hover{
   background-color: hsl(217, 12%, 63%);
   color: #FFF;
 }
