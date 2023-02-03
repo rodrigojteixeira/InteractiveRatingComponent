@@ -96,3 +96,13 @@ button:hover{
   text-align: center;
 }
 
+.chip{
+  background-color: hsl(213deg, 20%, 22%);
+  width: fit-content;
+  margin: 1rem auto;
+  color: hsl(25, 97%, 53%);
+  font-size: 14px;
+  padding: 0.7rem;
+  border-radius: 2rem;
+}
+
