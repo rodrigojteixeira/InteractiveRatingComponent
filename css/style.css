@@ -106,3 +106,7 @@ button:hover{
   border-radius: 2rem;
 }
 
+.checked{
+  background-color: hsl(25, 97%, 53%) !important;
+  color: #FFF !important;
+}
