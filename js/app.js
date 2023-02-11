@@ -17,3 +17,4 @@ rating_cards.forEach((rating_card) => {
         rate = e.target.innerText;
     })
 })
+
