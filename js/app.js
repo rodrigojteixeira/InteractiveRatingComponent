@@ -18,3 +18,10 @@ rating_cards.forEach((rating_card) => {
     })
 })
 
+submit.addEventListener("click", () => {
+    if (rate) {
+        rate_point.innerText = rate;
+        section.classList.add("hidden");        
+    }
+
+})
