@@ -22,6 +22,7 @@ submit.addEventListener("click", () => {
     if (rate) {
         rate_point.innerText = rate;
         section.classList.add("hidden");        
+        thanks.classList.remove("hidden");
     }
 
 })
