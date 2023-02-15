@@ -35,5 +35,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rodrigojteixeira/InteractiveRatingComponent)
-- Live Site URL: [Add live site URL here](https://rodrigojteixeira.github.io/InteractiveRatingComponent/)
+- Solution URL: [https://github.com/rodrigojteixeira/InteractiveRatingComponent]
+- Live Site URL: [https://rodrigojteixeira.github.io/InteractiveRatingComponent/]
