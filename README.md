@@ -27,3 +27,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
+
+### Screenshot
+
+![Tela Inicial](./images/Screenshot1.png)
+![Tela de Agradecimento pelo voto](./images/Screenshot2.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/rodrigojteixeira/InteractiveRatingComponent)
+- Live Site URL: [Add live site URL here](https://rodrigojteixeira.github.io/InteractiveRatingComponent/)
