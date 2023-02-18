@@ -31,3 +31,6 @@ Users should be able to:
 
 - Solution URL:  https://github.com/rodrigojteixeira/InteractiveRatingComponent
 - Live Site URL: https://rodrigojteixeira.github.io/InteractiveRatingComponent/
+
+## Author
+
