@@ -35,3 +35,4 @@ Users should be able to:
 ## Author
 
 - LinkedIn - https://www.linkedin.com/in/rodrigojt
+- GitHub - https://github.com/rodrigojteixeira
