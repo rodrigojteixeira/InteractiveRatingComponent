@@ -36,3 +36,4 @@ Users should be able to:
 
 - LinkedIn - https://www.linkedin.com/in/rodrigojt
 - GitHub - https://github.com/rodrigojteixeira
+- Frontend Mentor - https://www.frontendmentor.io/profile/rodrigojteixeira
